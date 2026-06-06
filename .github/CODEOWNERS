@@ -1,0 +1,24 @@
+# Regla general
+* @usuario
+
+# Todo archivo Python
+*.py @usuario
+
+# Todo notebook
+*.ipynb @usuario
+
+# Configuraciones YAML
+*.yml @usuario
+*.yaml @usuario
+
+# Codigo fuente
+/src/ @usuario
+
+# Configuracion del modelo o pipeline
+/config/ @usuario
+
+# Documentacion
+/docs/ @usuario
+
+# README principal
+/README.md @usuario
